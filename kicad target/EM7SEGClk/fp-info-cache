@@ -1,0 +1,98 @@
+20858704659706
+EM7SEGClk
+1X03-CLEANBIG
+
+
+0
+3
+3
+EM7SEGClk
+C5B2.5
+<B>MKS2</B>, 7.5 x 2.5 mm, grid 5.08 mm
+
+0
+2
+2
+EM7SEGClk
+C0805
+<b>CAPACITOR</b><p>
+chip
+
+0
+2
+2
+EM7SEGClk
+CHIPLED_0805
+<b>CHIPLED</b><p>
+Source: http://www.osram.convergy.de/ ... LG_R971.pdf
+
+0
+2
+2
+EM7SEGClk
+EM_7_SEG
+
+
+0
+14
+14
+EM7SEGClk
+FE05-1
+<b>FEMALE HEADER</b>
+
+0
+5
+5
+EM7SEGClk
+M0805
+<b>RESISTOR</b><p>
+MELF 0.10 W
+
+0
+2
+2
+EM7SEGClk
+QFP80P1200X1200X120-44N
+
+
+0
+44
+44
+EM7SEGClk
+SJM4306_LOGO_MEDIUM
+
+
+0
+0
+0
+EM7SEGClk
+SJM4306_LOGO_SMALL
+
+
+0
+0
+0
+EM7SEGClk
+SO8
+<B>SO8: plastic small outline package; 8 leads; body width 3.9 mm</B><p>
+Source: http://www.nxp.com/documents/data_sheet/PCA82C250.pdf
+
+0
+8
+8
+EM7SEGClk
+TACTILE_SWITCH_PTH_6.0MM
+<h3>Momentary Switch (Pushbutton) - SPST - PTH, 6.0mm Square</h3>
+<p>Normally-open (NO) SPST momentary switches (buttons, pushbuttons).</p>
+<p><a href="https://www.omron.com/ecb/products/pdf/en-b3f.pdf">Datasheet</a> (B3F-1000)</p>
+
+0
+4
+4
+EM7SEGClk
+TP16R
+<b>TEST PAD</b>
+
+0
+1
+1

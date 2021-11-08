@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EM7SEGClk)(type KiCad)(uri "$(KIPRJMOD)/EM7SEGClk.pretty")(options "")(descr ""))
+)

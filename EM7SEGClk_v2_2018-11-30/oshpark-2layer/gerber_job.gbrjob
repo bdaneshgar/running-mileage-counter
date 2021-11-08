@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-11-30T19:34:43Z*%
+%TF.Part,Single*%
+%MOIN*%
+%TJ.B_Owner,Shawn Maxwell <shawn.maxwell@uconn.edu>*%
+%TJ.B_ID,EM7SEGClk*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,0.061811*%
+%TJ.B_Size_X,2.409213*%
+%TJ.B_Size_Y,2.137008*%
+M02*
